@@ -1,0 +1,13 @@
+{
+  "name": "supplywise-consumer-test",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node test-supplywise.mjs",
+    "supplywise:scan": "supplywise scan --format all",
+    "supplywise:scan:terminal": "supplywise scan --format terminal"
+  },
+  "devDependencies": {
+    "supplywise": "^0.1.4"
+  }
+}

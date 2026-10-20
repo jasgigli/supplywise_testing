@@ -1,0 +1,45 @@
+{
+  "projectDir": "D:\\Engineering_Projects\\02_tools\\supplywise_testing",
+  "dependencies": [
+    {
+      "name": "supplywise",
+      "version": "0.1.4",
+      "requested": "^0.1.4",
+      "kind": "devDependencies",
+      "direct": true,
+      "integrity": "sha512-cSwHhOG6bsOo5mvYw9y6lhcoi4VY4lT2t4capnQp01Fzi0xp8QQzRRjnN8X0/G16nDEUQimxmJ0afcmdhRfp0w=="
+    },
+    {
+      "name": "picocolors",
+      "version": "1.1.1",
+      "kind": "dependencies",
+      "direct": false,
+      "integrity": "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="
+    },
+    {
+      "name": "zod",
+      "version": "3.25.76",
+      "kind": "dependencies",
+      "direct": false,
+      "integrity": "sha512-gzUt/qt81nXsFGKIFcC3YnfEAx5NkunCfnDlvuBSSFS02bcXu4Lmea0AFIUwbLWxWPx3d9p8S5QoaujKcNQxcQ=="
+    }
+  ],
+  "findings": [],
+  "sources": {
+    "npm": "available",
+    "OSV": "available",
+    "Bundlephobia": "available"
+  },
+  "incomplete": false,
+  "durationMs": 5158,
+  "cacheHits": 0,
+  "risk": {
+    "security": 0,
+    "maintenance": 0,
+    "bundle": 0,
+    "license": 0,
+    "compatibility": 0,
+    "supplyChain": 0,
+    "composite": 0
+  }
+}
